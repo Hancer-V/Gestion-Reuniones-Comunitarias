@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 @Gestion_Reuniones.API_HostAddress = http://localhost:5084
+=======
+@Gestion_Reuniones.API_HostAddress = http://localhost:5160
+>>>>>>> a96f69715b83a79c03e42d579bc9579206f6c8b5
 
 GET {{Gestion_Reuniones.API_HostAddress}}/weatherforecast/
 Accept: application/json
