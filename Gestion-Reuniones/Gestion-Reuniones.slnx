@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Gestion-Reuniones.API/Gestion-Reuniones.API.csproj" />
+  <Project Path="Gestion-Reuniones.Domain/Gestion-Reuniones.Domain.csproj" />
+  <Project Path="Gestion-Reuniones.Infrastructure/Gestion-Reuniones.Infrastructure.csproj" />
+</Solution>
